@@ -1,5 +1,3 @@
-pop
-push
-drop
+pop push drop
 cat
 dog
